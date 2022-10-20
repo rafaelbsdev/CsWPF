@@ -1,9 +1,16 @@
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.abstractions.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.runner.utility.net452.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\WpfContas.exe.config
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\WpfContas.exe
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\WpfContas.pdb
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Castle.Core.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Moq.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Npgsql.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\PresentationFramework.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Buffers.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Collections.Immutable.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -15,8 +22,13 @@ C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Threading.Channels.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.ValueTuple.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.assert.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.core.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.execution.desktop.dll
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Castle.Core.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Moq.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\Npgsql.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Buffers.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Collections.Immutable.xml
@@ -29,6 +41,9 @@ C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Threading.Channels.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\System.ValueTuple.xml
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.assert.xml
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.core.xml
+C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\xunit.execution.desktop.xml
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfContas.csproj.AssemblyReference.cache
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfContas.csproj.SuggestedBindingRedirects.cache
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\EditAddUsuario.g.cs
@@ -45,4 +60,3 @@ C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfCont
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfContas.csproj.CopyComplete
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfContas.exe
 C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\obj\Debug\WpfContas.pdb
-C:\Users\P.A\Desktop\Luz\falhas\testeFINAL\WpfContas\WpfContas\bin\Debug\PresentationFramework.dll

@@ -38,12 +38,10 @@ namespace WpfContas._Repo
         {
             if(db == "postgres")
             {
-                MessageBox.Show("Conectado ao Postgres!");
                 return new NpgsqlCommand();
             }
             else
             {
-                MessageBox.Show("Conectado ao SQL Server!");
                 return new SqlCommand();
             }
         }
